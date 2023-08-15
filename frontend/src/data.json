@@ -1,0 +1,86 @@
+[
+    {
+       "name": "newZland",
+       "imageUrl": "https://www.worldoffemale.com/wp-content/uploads/2018/07/Fotolia_66178955_Subscription_Monthly_M1.jpg",
+       "category":"travel"
+     },
+
+     {
+        "name": "Korea",
+        "imageUrl": "https://wallpapercave.com/wp/wp1915128.jpg",
+        "category":"travel"
+      },
+
+      {
+        "name": "Tunisia",
+        "imageUrl": "https://www.abouther.com/sites/default/files/styles/760xauto/public/2018/12/17/shutterstock_769887085.jpg?itok=CqXmiijo",
+        "category":"travel"
+      },
+      {
+        "name": "New york",
+        "imageUrl": "https://images.firstpost.com/wp-content/uploads/2017/08/Big-ben-1_AP.jpg",
+        "category":"travel"
+      },
+      {
+        "name": "London",
+        "imageUrl": "https://th.bing.com/th/id/R.6bbfd006d0cf87fd2d20544dd6584ef2?rik=Q3vztgoeamHXXw&riu=http%3a%2f%2fak9.picdn.net%2fshutterstock%2fvideos%2f4937507%2fthumb%2f1.jpg&ehk=vKSaxxUNJ1p6jUi2v7ii%2bSH6O1Uxq8WmJ%2fBmGzvlJqA%3d&risl=&pid=ImgRaw&r=0",
+        "category":"travel"
+      },
+
+
+
+      {
+        "name": "portrait1",
+        "imageUrl": "https://edge-ent.com/wp-content/uploads/2020/02/JLo-headshot-by-Gabriel-Goldman-e1581940121665-1500x1500.jpg",
+        "category":"portrait"
+      },
+      {
+        "name": "portrait2",
+        "imageUrl": "https://th.bing.com/th/id/R.5f4dd3fe54d766d476e7667254bce74c?rik=FUAwZ4Op7YLdfA&riu=http%3a%2f%2f2.bp.blogspot.com%2f_KIyQJEK69Dk%2fS8gO5sANDxI%2fAAAAAAAABJY%2fQv31_jIGGps%2fs1600%2fmonrf6lw-714632.jpg&ehk=NS9fuNsmQmxYDIQHSzEO2%2fFSlTedZeMbP8sBZDvOemA%3d&risl=&pid=ImgRaw&r=0",
+        "category":"portrait"
+      },
+      {
+        "name": "portrait3",
+        "imageUrl": "https://th.bing.com/th/id/OIP.rSm2fy-zhN9lEBNrVgKr9AHaJQ?pid=ImgDet&rs=1",
+        "category":"portrait"
+      },
+      {
+        "name": "portrait4",
+        "imageUrl": "https://i.pinimg.com/236x/ff/e5/c7/ffe5c7867c2b9529b62a529ffcc567aa--mens-suits-gorgeous-men.jpg",
+        "category":"portrait"
+      },
+      {
+        "name": "portrait5",
+        "imageUrl": "https://64.media.tumblr.com/3ea8541b9bd6773aace1f4146e07d950/tumblr_ptf6faErHe1qzznsq_540.jpg",
+        "category":"portrait"
+      },
+
+      {
+        "name": "wedding1",
+        "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/pa-54635887-tc-c-1595103506.jpg?crop=1.00xw:0.713xh;0,0.0831xh&resize=1200:*",
+       "category": "wedding"
+     },
+{
+        "name": "wedding2",
+        "imageUrl": "https://people.com/thmb/YhWGjQMNhNvUbgWIc-3CKPDejtY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/jordan-crown-prince-al-hussein-princess-rajwa-al-hussein-wedding-060223-5-fad19cf5eac043aeb7feebd3f83835e4.jpg",
+       "category": "wedding"
+     },
+{
+        "name": "wedding3",
+        "imageUrl": "https://twigspaper.com/cdn/shop/files/62a0dfc42f141f759085736d_Cover_Image.jpg?v=1679353692&width=1100",
+       "category": "wedding"
+     },
+{
+        "name": "wedding4",
+        "imageUrl": "https://t3.ftcdn.net/jpg/01/98/83/18/360_F_198831835_o8OtnyAyRIInLOWaPO410L0YuZOL4wLj.jpg",
+       "category": "wedding"
+     },
+{
+        "name": "wedding5",
+        "imageUrl": "https://media.istockphoto.com/id/1305174193/photo/groom-and-bride-walking-on-the-edge-of-the-sea.jpg?s=612x612&w=0&k=20&c=Suy4qzZfxtUT5bbjm1Am-4vSeAJRuuuZRuhViFK3-is=",
+       "category": "wedding"
+    }
+
+
+      
+]
